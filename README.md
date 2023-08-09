@@ -1,2 +1,2 @@
 # StrathDomains
-View Details of Strathmore Enumerated Domains
+View Details of Strathmore's Enumerated Subdomains.
