@@ -1,0 +1,890 @@
+[
+    {
+        "ID": 1,
+        "hostName": "ns1.strathmore.edu",
+        "IPAddress": "198.57.179.99",
+        "Scope": "PUBLIC",
+        "Description": "DNS server interfacing with the internet",
+        "Comments": "N/A"
+    },
+    {
+        "ID": 2,
+        "hostName": " ns2.strathmore.edu",
+        "IPAddress": "192.163.227.42",
+        "Scope": "PRIVATE",
+        "Description": " DNS Server Interfacing with the Internal Network",
+        "Comments": "N/A"
+    },
+    {
+        "ID": 3,
+        "hostName": "ofa.strathmore.edu",
+        "IPAddress": "198.57.179.99",
+        "Scope": "PUBLIC",
+        "Description": " Office Of Faculty Affairs",
+        "Comments": "Concerned with faculty development, support, recruitment, promotion, Salary appeals, leave and sabbatical. Headed by Prof. Ateya"
+    },
+    {
+        "ID": 4,
+        "hostName": "twiga.strathmore.edu",
+        "IPAddress": "156.0.232.201",
+        "Scope": "PUBLIC",
+        "Description": "Still Under Construction",
+        "Comments": "Check out their disaster Prediction System at https://dpm-platform.web.app/"
+    },
+    {
+        "ID": 5,
+        "hostName": "cla.strathmore.edu",
+        "IPAddress": "35.193.145.209",
+        "Scope": "PUBLIC",
+        "Description": "The Corporate Legal Affairs Office",
+        "Comments": "Enter value for Comments: central administrative function of the University responsible for the management of the University's Corporate, Legal, Secretarial, Compliance and Insurance functions (generally referred to as legal services)"
+    },
+    {
+        "ID": 6,
+        "hostName": "ifcsomina.strathmore.edu",
+        "IPAddress": "34.72.235.136",
+        "Scope": "PUBLIC",
+        "Description": "International Financial Corporation",
+        "Comments": "Strathmore Business School and the International Finance Corporation (IFC) have signed a cooperation agreement and intend to launch the Somali Investment Academy (SOMINA) to design and deliver a programme aimed at developing the general management and business skills of results-oriented professionals."
+    },
+    {
+        "ID": 7,
+        "hostName": "infra.strathmore.edu",
+        "IPAddress": "156.0.232.10",
+        "Scope": "PUBLIC",
+        "Description": "HOST DOWN",
+        "Comments": "Possibly created to manage the infrastructure within strathmore"
+    },
+    {
+        "ID": 8,
+        "hostName": "darasa.strathmore.edu",
+        "IPAddress": "156.0.232.122",
+        "Scope": "PUBLIC",
+        "Description": "Strathmore Energy Research Center",
+        "Comments": "The Strathmore Energy Research Centre (SERC) is an institution that was established in July 2012, with the aim of carrying out high quality research and technical training as well as consultancy and solar PV testing services in the energy sector in Kenya."
+    },
+    {
+        "ID": 9,
+        "hostName": "susa.strathmore.edu",
+        "IPAddress": "198.57.179.99",
+        "Scope": "PUBLIC",
+        "Description": " Student Affairs",
+        "Comments": " The Dean of Student's personal site in-charge of enhancing studen's personal and academic exellence"
+    },
+    {
+        "ID": 10,
+        "hostName": "fita.strathmore.edu",
+        "IPAddress": "156.0.233.245",
+        "Scope": "PUBLIC",
+        "Description": "Strathmore Admissions Office QR code system",
+        "Comments": "For FIT"
+    },
+    {
+        "ID": 11,
+        "hostName": "suguta.strathmore.edu",
+        "IPAddress": "156.0.232.229",
+        "Scope": "PUBLIC",
+        "Description": "N/a",
+        "Comments": "N/A"
+    },
+    {
+        "ID": 12,
+        "hostName": "lewa.strathmore.edu ",
+        "IPAddress": "156.0.232.188",
+        "Scope": "PUBLIC",
+        "Description": "Site Currently Down",
+        "Comments": "Was Used To Administer Online Exams"
+    },
+    {
+        "ID": 13,
+        "hostName": "ilab.strathmore.edu ",
+        "IPAddress": "156.0.232.226",
+        "Scope": "PUBLIC",
+        "Description": "@IlabAfrica",
+        "Comments": "Center of Innovation and Tech. Has various Departments such as IoT, Cybersecurity et al"
+    },
+    {
+        "ID": 14,
+        "hostName": "iotlab.strathmore.edu",
+        "IPAddress": "156.0.232.201",
+        "Scope": "PUBLIC",
+        "Description": "Site Under Construction",
+        "Comments": "WOuld Be a great Hub For IoT enthusiasts and researchers!"
+    },
+    {
+        "ID": 15,
+        "hostName": "auth.iotlab.strathmore.edu",
+        "IPAddress": " 156.0.232.201 ",
+        "Scope": "PUBLIC",
+        "Description": "A sub-domain of iotlab.strathmore.edu",
+        "Comments": "For Centralized Identity and Access Management via Keycloak server"
+    },
+    {
+        "ID": 16,
+        "hostName": "api.iotlab.strathmore.edu",
+        "IPAddress": "156.0.232.201 ",
+        "Scope": "PUBLIC",
+        "Description": "sub-domain of iotlab",
+        "Comments": "API management"
+    },
+    {
+        "ID": 17,
+        "hostName": "lib.strathmore.edu",
+        "IPAddress": "156.0.232.46",
+        "Scope": "PUBLIC",
+        "Description": "Strathmore University Library",
+        "Comments": "Find all Library resources"
+    },
+    {
+        "ID": 18,
+        "hostName": "waterhub.strathmore.edu",
+        "IPAddress": " 157.90.169.88",
+        "Scope": "PUBLIC",
+        "Description": "Domain Not Active for Now",
+        "Comments": "N/A"
+    },
+    {
+        "ID": 19,
+        "hostName": "sumentalhealthclub.strathmore.edu",
+        "IPAddress": "52.19.249.134 ",
+        "Scope": "PUBLIC",
+        "Description": "StrathmoreMentalHealthClub",
+        "Comments": "Speak To Mental Health professionals to sort out your mental needs"
+    },
+    {
+        "ID": 20,
+        "hostName": "srcc.strathmore.edu ",
+        "IPAddress": "198.57.179.99",
+        "Scope": "PUBLIC",
+        "Description": "Strathmore Research and Consultancy Center",
+        "Comments": " SRCC coordinates the consultancy work of the university to ensure that clients receive high quality advisory work.It aims to transform the society with research-based solutions"
+    },
+    {
+        "ID": 21,
+        "hostName": "projects.srcc.strathmore.edu",
+        "IPAddress": "156.0.232.122",
+        "Scope": "PUBLIC",
+        "Description": "Contains all the projects for the strathmore research and consultancy department",
+        "Comments": "You need to be an active member to view the projects"
+    },
+    {
+        "ID": 22,
+        "hostName": "seic.strathmore.edu ",
+        "IPAddress": "52.19.249.134 ",
+        "Scope": "PUBLIC",
+        "Description": " Strathmore Extractives Industry Centre (SEIC)",
+        "Comments": "autonomous research centre based at the Strathmore University School of Law, for advanced multi-disciplinary university-stakeholder research into the social science areas of oil, gas and mining issues."
+    },
+    {
+        "ID": 23,
+        "hostName": "lawclinic.strathmore.edu",
+        "IPAddress": "198.57.179.99",
+        "Scope": "PUBLIC",
+        "Description": "N/A",
+        "Comments": "Looks Vulnerable"
+    },
+    {
+        "ID": 24,
+        "hostName": "pic.strathmore.edu ",
+        "IPAddress": "198.57.179.99",
+        "Scope": "PUBLIC",
+        "Description": "The Policy Innovation Center",
+        "Comments": "Based in Nairobi, Kenya, at Strathmore University, the Microsoft Policy Innovation Centre is a facility that consists of a bespoke Policy Innovation Centre kitted out with Microsoft's Office 365 product solutions and a Microsoft Auditorium."
+    },
+    {
+        "ID": 25,
+        "hostName": "siasic.strathmore.edu",
+        "IPAddress": "198.57.179.99",
+        "Scope": "PUBLIC",
+        "Description": "Strathmore Institute of Advanced Studies in International Criminal Justice (SIASIC)",
+        "Comments": "institute dedicated to strengthening capacities of criminal justice practitioners, the legal infrastructure in Kenya and the African region in international criminal justice. We do this through capacity-building trainings, applied research, and academic teaching. We are housed under the Strathmore Law School Faculty in Strathmore University, Nairobi, Kenya."
+    },
+    {
+        "ID": 26,
+        "hostName": "simc.strathmore.edu ",
+        "IPAddress": " 198.57.179.99",
+        "Scope": "PUBLIC",
+        "Description": "STRATHMORE INTERNATIONAL MATHEMATICS CONFERENCE",
+        "Comments": "Promoting research collaboration in mathematical sciences to address emerging challenges in health, agriculture, climate change and big data."
+    },
+    {
+        "ID": 27,
+        "hostName": "Strathmore University Medical Center",
+        "IPAddress": "198.57.179.99",
+        "Scope": "PUBLIC",
+        "Description": "Strathmore Medical Center",
+        "Comments": "For Booking medical appointments, medical diagnosis and Prognosis"
+    },
+    {
+        "ID": 28,
+        "hostName": "sdrc.strathmore.edu",
+        "IPAddress": "198.57.179.99",
+        "Scope": "PUBLIC",
+        "Description": "The Strathmore Dispute Resolution Center",
+        "Comments": "Dispute related concerns"
+    },
+    {
+        "ID": 29,
+        "hostName": "serc.strathmore.edu",
+        "IPAddress": "198.57.179.99",
+        "Scope": "PUBLIC",
+        "Description": "Strathmore Energy Research Center",
+        "Comments": "For Handling research in renewable energy and sustainability projects"
+    },
+    {
+        "ID": 30,
+        "hostName": "csc.strathmore.edu",
+        "IPAddress": "198.57.179.99",
+        "Scope": "PUBLIC",
+        "Description": "Strathmore Community Service Center",
+        "Comments": "Deals with different Community-Based needs."
+    },
+    {
+        "ID": 31,
+        "hostName": "strathfeed.strathmore.edu",
+        "IPAddress": "156.0.233.245 ",
+        "Scope": "PUBLIC",
+        "Description": "Scan the QR Code to give feedback",
+        "Comments": "Feedback System"
+    },
+    {
+        "ID": 32,
+        "hostName": "datascience.strathmore.edu",
+        "IPAddress": "34.73.155.107",
+        "Scope": "PUBLIC",
+        "Description": "Strathmore Africa Data Analytics Center (SADAC)",
+        "Comments": "professional services firm offering data driven corporate solutions to achieve a competitive advantage for our clients. We also offer individual and corporate trainings that equip our students with a practical and comprehensive understanding of the Data Science field."
+    },
+    {
+        "ID": 33,
+        "hostName": "conference.strathmore.edu",
+        "IPAddress": " 169.239.252.126",
+        "Scope": "PUBLIC",
+        "Description": "Manage Conferences",
+        "Comments": "Manage Conferences"
+    },
+    {
+        "ID": 34,
+        "hostName": "jimmcfie.strathmore.edu",
+        "IPAddress": "198.57.179.99",
+        "Scope": "PUBLIC",
+        "Description": "No Longer Supported",
+        "Comments": "Was Deigned for the famous economist Dr. Mcfie"
+    },
+    {
+        "ID": 35,
+        "hostName": "online.strathmore.edu ",
+        "IPAddress": "35.237.239.219",
+        "Scope": "PUBLIC",
+        "Description": "SBS Online",
+        "Comments": "Online Services such as coaching and Data science programmes"
+    },
+    {
+        "ID": 36,
+        "hostName": "mape.strathmore.edu",
+        "IPAddress": "63.35.65.249",
+        "Scope": "PUBLIC",
+        "Description": "Masters In Philosophy and Ethics Web Portal",
+        "Comments": "Get various related information about philosophy and ethics"
+    },
+    {
+        "ID": 37,
+        "hostName": "itare.strathmore.edu",
+        "IPAddress": "156.0.232.214",
+        "Scope": "PUBLIC",
+        "Description": "BigBlueButton",
+        "Comments": "open source web conferencing system for online classes. The platform maximizes time for applied learning by enabling students to collaborate and receive feedback in real-time."
+    },
+	{
+        "ID": 38,
+        "hostName": "sbsenterprise.strathmore.edu",
+        "IPAddress": "35.243.191.120",
+        "Scope": "PUBLIC",
+        "Description": "Strathmore Business School",
+        "Comments": "You can book classes in SBS, send bulk SMS to students and place cab reservations"
+    },
+    {
+        "ID": 39,
+        "hostName": "skillsgate.strathmore.edu",
+        "IPAddress": "156.0.232.45",
+        "Scope": "PUBLIC",
+        "Description": "Part of the DSPACE research",
+        "Comments": "website currently down. Return server error 500"
+    },
+    {
+        "ID": 40,
+        "hostName": " sue.strathmore.edu",
+        "IPAddress": "198.57.179.99",
+        "Scope": "PUBLIC",
+        "Description": "Strathmore University Alumni Association",
+        "Comments": "A hub for strath alumni"
+    },
+    {
+        "ID": 41,
+        "hostName": "elearning.strathmore.edu",
+        "IPAddress": "63.35.65.249",
+        "Scope": "General e-elearning platform for stratizens",
+        "Description": "Get access to different elearning resources",
+        "Comments": "Get accessto different elearning resources"
+    },
+    {
+        "ID": 42,
+        "hostName": "cpelearning.strathmore.edu",
+        "IPAddress": "156.0.232.98",
+        "Scope": "PUBLIC",
+        "Description": "N/A",
+        "Comments": "N/A"
+    },
+    {
+        "ID": 43,
+        "hostName": "sbselearning.strathmore.edu",
+        "IPAddress": "34.73.106.179 ",
+        "Scope": "PUBLIC",
+        "Description": "A private elearning for only SBS Students!",
+        "Comments": "SBS elearning platform"
+    },
+    {
+        "ID": 44,
+        "hostName": "shsselearning.strathmore.edu",
+        "IPAddress": "198.57.179.99",
+        "Scope": "PUBLIC",
+        "Description": "An elearning platform for the school of humanity and social sciences",
+        "Comments": "SHSS elearning platform"
+    },
+    {
+        "ID": 45,
+        "hostName": "executivelearning.strathmore.edu",
+        "IPAddress": "35.232.160.195",
+        "Scope": "PUBLIC",
+        "Description": "Offers a Unique learning platform for executives",
+        "Comments": "N/A"
+    },
+    {
+        "ID": 46,
+        "hostName": "industrymentoring.strathmore.edu ",
+        "IPAddress": "156.0.232.192",
+        "Scope": "PUBLIC",
+        "Description": "Strathmore University Industry Mentoring",
+        "Comments": "Aims to mentor and prepare students for the workplace"
+    },
+    {
+        "ID": 47,
+        "hostName": "giving.strathmore.edu",
+        "IPAddress": "198.57.179.99",
+        "Scope": "PUBLIC",
+        "Description": "Giving",
+        "Comments": "HOST DOWN"
+    },
+    {
+        "ID": 48,
+        "hostName": "blog.strathmore.edu",
+        "IPAddress": "198.57.179.99",
+        "Scope": "PUBLIC",
+        "Description": "The official strathmore blog site. ",
+        "Comments": "Get to know what's trending and read stories of different students"
+    },
+    {
+        "ID": 49,
+        "hostName": " research.strathmore.edu",
+        "IPAddress": "198.57.179.0",
+        "Scope": "PUBLIC",
+        "Description": "SU Research Center",
+        "Comments": "Global Research Collaboration Center"
+    },
+    {
+        "ID": 50,
+        "hostName": "cth.strathmore.edu",
+        "IPAddress": "198.57.179.99",
+        "Scope": "PUBLIC",
+        "Description": "School Of Tourism and Hospitality",
+        "Comments": "Get to know more about them"
+    },
+    {
+        "ID": 51,
+        "hostName": "sth.strathmore.edu",
+        "IPAddress": "198.57.179.99",
+        "Scope": "PUBLIC",
+        "Description": "Strathmore's School of Tourism and Hospitality",
+        "Comments": "Get to know their various programs"
+    },
+    {
+        "ID": 52,
+        "hostName": "mtihani.strathmore.edu",
+        "IPAddress": "130.211.209.239",
+        "Scope": "PUBLIC",
+        "Description": "Examination Department Management System",
+        "Comments": "Blocked BY WAF"
+    },
+    {
+        "ID": 53,
+        "hostName": "cpmini.strathmore.edu",
+        "IPAddress": "104.243.41.216",
+        "Scope": "PUBLIC",
+        "Description": "N/A",
+        "Comments": "Runs on Apache web server. Permission Denied for normal users"
+    },
+    {
+        "ID": 54,
+        "hostName": "alumni.strathmore.edu",
+        "IPAddress": "198.57.179.99",
+        "Scope": "PUBLIC",
+        "Description": "Alumni Management System",
+        "Comments": "Get to Connect with different alumni, apply for alumni ID and more"
+    },
+    {
+        "ID": 55,
+        "hostName": "si.strathmore.edu",
+        "IPAddress": "198.57.179.99",
+        "Scope": "PUBLIC",
+        "Description": "Strathmore Institute of Management and Technology",
+        "Comments": "Go check various courses offered at the strathmore institute"
+    },
+    {
+        "ID": 56,
+        "hostName": "journal.strathmore.edu",
+        "IPAddress": "198.57.179.99",
+        "Scope": "PUBLIC",
+        "Description": "Strathmore University Journals",
+        "Comments": "Get to read various SU journals from the best authors you can ever get"
+    },
+    {
+        "ID": 57,
+        "hostName": "digital.strathmore.edu ",
+        "IPAddress": "169.239.252.3",
+        "Scope": "PL",
+        "Description": "Digital Services Management",
+        "Comments": "N/A"
+    },
+    {
+        "ID": 58,
+        "hostName": "foundation.strathmore.edu ",
+        "IPAddress": "198.57.179.99",
+        "Scope": "PUBLIC",
+        "Description": "Strathmore University Foundation",
+        "Comments": "Deals with Raising of funds, organizing VC runs, donations, and scholarships"
+    },
+    {
+        "ID": 59,
+        "hostName": "orientation.strathmore.edu",
+        "IPAddress": "198.57.179.99",
+        "Scope": "PUBLIC",
+        "Description": "Strathmore University Orientation",
+        "Comments": "For new students who need to see their dean, know the student life at strathmore and just get information to move around school"
+    },
+    {
+        "ID": 60,
+        "hostName": "exhibition.strathmore.edu",
+        "IPAddress": "198.57.179.99",
+        "Scope": "PUBLIC",
+        "Description": "Strathmore University Exhibition Site",
+        "Comments": "The Strathmore University Exhibition aims to raise awareness of the rich history of Strathmore as an institution, starting with Strathmore and Kianda College in the 1960s and showcases art through Strathmore University art collection, exhibitions, research and events."
+    },
+    {
+        "ID": 61,
+        "hostName": "macheo.strathmore.edu",
+        "IPAddress": "198.57.179.99",
+        "Scope": "PUBLIC",
+        "Description": "Strathmore Macheo Program",
+        "Comments": "Macheo Program aims to provide mentorship to highschool students and provide opportunities for scholarships for high performing students from poor backgrounds"
+    },
+    {
+        "ID": 62,
+        "hostName": "su-sso.strathmore.edu ",
+        "IPAddress": "156.0.232.84",
+        "Scope": "PUBLIC",
+        "Description": "Strathore Single Sign On System",
+        "Comments": "Used for centralized authentication to various services such as the AMS(Academic Management System)"
+    },
+    {
+        "ID": 63,
+        "hostName": "vivo.strathmore.edu ",
+        "IPAddress": "156.0.232.45",
+        "Scope": "PUBLIC",
+        "Description": "N/A",
+        "Comments": "SSL Certificate Expired"
+    },
+    {
+        "ID": 64,
+        "hostName": "cpworkshop.strathmore.edu ",
+        "IPAddress": "156.0.232.98",
+        "Scope": "PUBLIC",
+        "Description": "N/A",
+        "Comments": "N/A"
+    },
+    {
+        "ID": 65,
+        "hostName": "sisp.strathmore.edu ",
+        "IPAddress": "198.57.179.99",
+        "Scope": "PUBLIC",
+        "Description": "N/A",
+        "Comments": "Looks Vulnerable"
+    },
+    {
+        "ID": 66,
+        "hostName": "server.strathmore.edu",
+        "IPAddress": "192.163.227.42",
+        "Scope": "PUBLIC",
+        "Description": "Server management system",
+        "Comments": "N/A"
+    },
+    {
+        "ID": 67,
+        "hostName": "odkserver.strathmore.edu",
+        "IPAddress": "34.243.153.240",
+        "Scope": "PUBLIC",
+        "Description": "Remote Server Management System",
+        "Comments": "You need to Login to Access the system"
+    },
+    {
+        "ID": 68,
+        "hostName": "sbs.strathmore.edu  ",
+        "IPAddress": "34.249.176.141",
+        "Scope": "PUBLIC",
+        "Description": "Strathmore Business School Site",
+        "Comments": "Get to access different resources in SBS"
+    },
+    {
+        "ID": 69,
+        "hostName": "sces.strathmore.edu",
+        "IPAddress": "198.57.179.99",
+        "Scope": "PUBLIC",
+        "Description": "Strathmore School Of Computing and Engineering Sciences",
+        "Comments": "Get to know the dean, the lecturers and the various courses in SCES"
+    },
+    {
+        "ID": 70,
+        "hostName": "graduatestudies.strathmore.edu",
+        "IPAddress": "198.57.179.99",
+        "Scope": "PUBLIC",
+        "Description": "Strathmore Site For Graduate Studies",
+        "Comments": "N/A"
+    },
+    {
+        "ID": 71,
+        "hostName": "mapes.strathmore.edu ",
+        "IPAddress": "63.35.65.249",
+        "Scope": "PUBLIC",
+        "Description": "Mape elearning",
+        "Comments": "N/A"
+    },
+    {
+        "ID": 72,
+        "hostName": "creates.strathmore.edu ",
+        "IPAddress": "198.57.179.99",
+        "Scope": "PUBLIC",
+        "Description": "N/A",
+        "Comments": "site unreachable"
+    },
+    {
+        "ID": 73,
+        "hostName": "sgs.strathmore.edu",
+        "IPAddress": "52.19.249.134",
+        "Scope": "PUBLIC",
+        "Description": "Office of Graduate Studies",
+        "Comments": "For Masters students interested in research"
+    },
+    {
+        "ID": 74,
+        "hostName": "www.sims.strathmore.edu",
+        "IPAddress": "198.57.179.99",
+        "Scope": "PUBLIC",
+        "Description": "Strathmore Institute of Mathematical Sciences",
+        "Comments": "Get to know their courses and what they do"
+    },
+    {
+        "ID": 75,
+        "hostName": "rms.strathmore.edu",
+        "IPAddress": "156.0.232.122",
+        "Scope": "PUBLIC",
+        "Description": "Strathmore's Official Research Management System",
+        "Comments": "Research and Collaboration. You need to log in to access it!"
+    },
+    {
+        "ID": 76,
+        "hostName": "brains.strathmore.edu",
+        "IPAddress": "34.243.153.240",
+        "Scope": "PUBLIC",
+        "Description": " MoBility for Research and African Integration through Health Sciences.",
+        "Comments": ""
+    },
+    {
+        "ID": 77,
+        "hostName": "apps.strathmore.edu ",
+        "IPAddress": "156.0.232.192",
+        "Scope": "PUBLIC",
+        "Description": "App Management",
+        "Comments": "Submit application bugs and suggest new features"
+    },
+    {
+        "ID": 78,
+        "hostName": "careers.strathmore.edu",
+        "IPAddress": "156.0.232.150",
+        "Scope": "PUBLIC",
+        "Description": "Career Services",
+        "Comments": "Get Career related advises and opportunities"
+    },
+    {
+        "ID": 79,
+        "hostName": "studentaffairs.strathmore.edu",
+        "IPAddress": "198.57.179.99",
+        "Scope": "PUBLIC",
+        "Description": "Student Affairs",
+        "Comments": "N/A"
+    },
+    {
+        "ID": 80,
+        "hostName": "press.strathmore.edu",
+        "IPAddress": "198.57.179.99",
+        "Scope": "PUBLIC",
+        "Description": "N/A",
+        "Comments": "N/A"
+    },
+    {
+        "ID": 81,
+        "hostName": "shss.strathmore.edu ",
+        "IPAddress": "198.57.179.99",
+        "Scope": "PUBLIC",
+        "Description": "School Of Humanity and Social Sciences",
+        "Comments": "SHSS site"
+    },
+    {
+        "ID": 82,
+        "hostName": "icts.strathmore.edu ",
+        "IPAddress": "198.57.179.99",
+        "Scope": "PUBLIC",
+        "Description": "Strathmore University ICT Services",
+        "Comments": "Get to know different ICT programmes in Strathmore"
+    },
+    {
+        "ID": 83,
+        "hostName": "events.strathmore.edu ",
+        "IPAddress": "198.57.179.99",
+        "Scope": "PUBLIC",
+        "Description": "Events and Protocol",
+        "Comments": " manages high-profile events, offers consultations on protocol and event management, and collaborates with internal and external partners to give professional guidance and help with event planning and execution."
+    },
+    {
+        "ID": 84,
+        "hostName": "su-plus.strathmore.edu",
+        "IPAddress": "156.0.232.45",
+        "Scope": "PUBLIC",
+        "Description": "SU Digital Repository",
+        "Comments": "Access Exam Bank and Research theses"
+    },
+    {
+        "ID": 85,
+        "hostName": "planet.strathmore.edu ",
+        "IPAddress": "35.202.12.159",
+        "Scope": "PUBLIC",
+        "Description": "Contributing to Sustainable Development Goals",
+        "Comments": "N/A"
+    },
+    {
+        "ID": 86,
+        "hostName": "fit.strathmore.edu ",
+        "IPAddress": "198.57.179.99",
+        "Scope": "PUBLIC",
+        "Description": "Faculty of Inforation Technology",
+        "Comments": "N/A"
+    },
+    {
+        "ID": 87,
+        "hostName": "cipit.strathmore.edu ",
+        "IPAddress": "197.136.17.25",
+        "Scope": "PUBLIC",
+        "Description": "Center for Intellectual Property and Information Technology Law",
+        "Comments": "Know about Data governance, Cyber Law and IP laws"
+    },
+    {
+        "ID": 88,
+        "hostName": "bmiafjt.strathmore.edu",
+        "IPAddress": "104.197.34.207",
+        "Scope": "PUBLIC",
+        "Description": "Financial journalism training program for the Bloomberg Media Initiative for Africa",
+        "Comments": "N/A"
+    },
+    {
+        "ID": 89,
+        "hostName": "payment.strathmore.edu",
+        "IPAddress": "198.57.179.99",
+        "Scope": "PUBLIC",
+        "Description": "Strathmore Payment Service",
+        "Comments": "Open For Payment for scholarship fund, Alumni fund, community outreach fund, and New York Alumni event"
+    },
+    {
+        "ID": 90,
+        "hostName": "support.strathmore.edu ",
+        "IPAddress": "156.0.232.61",
+        "Scope": "PUBLIC",
+        "Description": "Support Services",
+        "Comments": "N/A"
+    },
+    {
+        "ID": 91,
+        "hostName": "mail.support.strathmore.edu",
+        "IPAddress": "156.0.232.61",
+        "Scope": "PUBLIC",
+        "Description": "Mail Support services",
+        "Comments": "N/A"
+    },
+    {
+        "ID": 92,
+        "hostName": "sbssupport.strathmore.edu",
+        "IPAddress": "34.71.176.11",
+        "Scope": "PUBLIC",
+        "Description": "Support for SBS Students",
+        "Comments": "N/A"
+    },
+    {
+        "ID": 93,
+        "hostName": "lulu.strathmore.edu ",
+        "IPAddress": "156.0.232.46",
+        "Scope": "PUBLIC",
+        "Description": "Library services",
+        "Comments": "N/A"
+    },
+    {
+        "ID": 94,
+        "hostName": "law.strathmore.edu ",
+        "IPAddress": "198.57.179.99",
+        "Scope": "PUBLIC",
+        "Description": "Strathmore Law School",
+        "Comments": "SLS site"
+    },
+    {
+        "ID": 95,
+        "hostName": "coursepay.strathmore.edu ",
+        "IPAddress": "156.0.232.192",
+        "Scope": "PUBLIC",
+        "Description": "Initiate Payments For Courses",
+        "Comments": "Choose between Equity and MPESA"
+    },
+    {
+        "ID": 96,
+        "hostName": " library.strathmore.edu",
+        "IPAddress": "156.0.232.46",
+        "Scope": "PUBLIC",
+        "Description": "Library Services",
+        "Comments": "N/A"
+    },
+    {
+        "ID": 97,
+        "hostName": "opac.library.strathmore.edu ",
+        "IPAddress": "156.0.232.46",
+        "Scope": "PUBLIC",
+        "Description": "Access Koha Library Services",
+        "Comments": "Get to find journals, eBooks and Library training"
+    },
+    {
+        "ID": 98,
+        "hostName": " ezproxy.library.strathmore.edu",
+        "IPAddress": "156.0.232.81",
+        "Scope": "PUBLIC",
+        "Description": "Library Off-Campus Access",
+        "Comments": "Get to access different publishers such as IEEE and Emerald for free"
+    },
+    {
+        "ID": 99,
+        "hostName": "ieeexplore.ieee.org.ezproxy.library.strathmore.edu",
+        "IPAddress": "156.0.232.81",
+        "Scope": "PUBLIC",
+        "Description": "Proxy to Access IEEE resources via Strathmore University for free",
+        "Comments": "N/A"
+    },
+    {
+        "ID": 100,
+        "hostName": "link-springer-com.ezproxy.library.strathmore.edu",
+        "IPAddress": "156.0.232.81",
+        "Scope": "PUBLIC",
+        "Description": "Springer Jounal Papers",
+        "Comments": "N/A"
+    },
+    {
+        "ID": 101,
+        "hostName": "sustainability.strathmore.edu",
+        "IPAddress": "198.57.179.99",
+        "Scope": "PUBLIC",
+        "Description": "Research on Sustainability",
+        "Comments": "HOST DOWN"
+    },
+    {
+        "ID": 102,
+        "hostName": "womenincybersec.strathmore.edu",
+        "IPAddress": "156.0.232.226",
+        "Scope": "PUBLIC",
+        "Description": "Women In Cybersecurity Program",
+        "Comments": "encourages women in their early careers to take up roles in"
+    },
+	 {
+        "ID": 103,
+        "hostName": "mcf.strathmore.edu ",
+        "IPAddress": "139.144.60.156",
+        "Scope": "PUBLIC",
+        "Description": "N/A",
+        "Comments": "N/A"
+    },
+    {
+        "ID": 104,
+        "hostName": "crm.strathmore.edu",
+        "IPAddress": "54.195.85.216",
+        "Scope": "PUBLIC",
+        "Description": "Strathmore University CRM",
+        "Comments": "N/A"
+    },
+    {
+        "ID": 105,
+        "hostName": "vcrun.strathmore.edu ",
+        "IPAddress": "198.57.179.99",
+        "Scope": "PUBLIC",
+        "Description": "VC Run Site",
+        "Comments": "Participate in the VC run and give donations"
+    },
+    {
+        "ID": 106,
+        "hostName": "https://womenincyberseclms.strathmore.edu/",
+        "IPAddress": "156.0.232.226",
+        "Scope": "PUBLIC",
+        "Description": "Learning Management System For Women in Cybersec",
+        "Comments": "Great Place to learn cybersecurity if you are a lady!"
+    },
+    {
+        "ID": 107,
+        "hostName": " ilabrms.strathmore.edu ",
+        "IPAddress": "156.0.232.100",
+        "Scope": "PUBLIC",
+        "Description": "RMS ",
+        "Comments": "Looks Weird"
+    },
+    {
+        "ID": 108,
+        "hostName": "oldicts.strathmore.edu",
+        "IPAddress": "198.57.179.99",
+        "Scope": "PUBLIC",
+        "Description": "The OLD ICT Website",
+        "Comments": "N/A"
+    },
+    {
+        "ID": 109,
+        "hostName": "chat.strathmore.edu",
+        "IPAddress": "156.0.232.46",
+        "Scope": "PUBLIC",
+        "Description": "SU Chatting Hub!",
+        "Comments": "Get to know other friends"
+    },
+    {
+        "ID": 110,
+        "hostName": "samburu.strathmore.edu ",
+        "IPAddress": "156.0.232.198",
+        "Scope": "PUBLIC",
+        "Description": "Public Procurement Information Portal",
+        "Comments": "N/A"
+    },
+    {
+        "ID": 111,
+        "hostName": "ibiz.strathmore.edu",
+        "IPAddress": "156.0.232.226",
+        "Scope": "PUBLIC",
+        "Description": "@iBizAfrica business incubator",
+        "Comments": "carries out the Entrepreneurship and Incubation theme of @iLabAfrica. @iBizAfrica seeks to provide a nurturing environment that builds on the potential of the youth to develop ICT solutions and businesses that work for the common good in society. Great to check it out if you are planning on a startup!"
+    }
+]
